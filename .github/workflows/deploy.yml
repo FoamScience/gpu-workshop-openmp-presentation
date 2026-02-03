@@ -25,7 +25,7 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - run: pnpm build --base /gpu-workshop-openmp-presentation/
+      - run: pnpm build --base https://foamscience.github.io/gpu-workshop-openmp-presentation/
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
