@@ -1,0 +1,39 @@
+{
+  "labels": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "components": [
+    {
+      "id": "resource-usage",
+      "type": "stackedarea",
+      "label": "Resource Usage Over Time",
+      "data": {
+        "series": [
+          {
+            "label": "CPU",
+            "data": [10, 12, 15, 14, 16, 18, 17, 19, 20, 18]
+          },
+          {
+            "label": "Memory",
+            "data": [20, 22, 25, 28, 30, 32, 35, 33, 31, 29]
+          },
+          {
+            "label": "Disk I/O",
+            "data": [15, 18, 20, 22, 25, 23, 28, 30, 32, 35]
+          },
+          {
+            "label": "Network",
+            "data": [8, 10, 12, 15, 14, 16, 18, 20, 22, 25]
+          }
+        ]
+      },
+      "color": "#89b4fa",
+      "colors": ["#89b4fa", "#a6e3a1", "#f9e2af", "#f38ba8"],
+      "strokeWidth": 1,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 9],
+  "yRange": [0, 120],
+  "xAxisLabel": "Time (seconds)",
+  "yAxisLabel": "Usage (%)"
+}

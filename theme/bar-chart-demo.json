@@ -1,0 +1,18 @@
+{
+  "labels": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "components": [
+    {
+      "id": "vertical-bars",
+      "type": "bar",
+      "label": "Sales Data",
+      "data": [23, 45, 67, 34, 56, 78, 90, 45, 67, 89],
+      "color": "#89b4fa",
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 9],
+  "yRange": [0, 100],
+  "xAxisLabel": "Month",
+  "yAxisLabel": "Sales ($1000s)"
+}

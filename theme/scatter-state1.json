@@ -1,0 +1,44 @@
+{
+  "labels": [0, 1, 2, 3, 4],
+  "components": [
+    {
+      "id": "cluster-a",
+      "type": "points",
+      "label": "Cluster A",
+      "data": [
+        { "x": 2, "y": 3 },
+        { "x": 3, "y": 4 },
+        { "x": 2.5, "y": 3.5 },
+        { "x": 3.5, "y": 4.5 },
+        { "x": 2.8, "y": 3.2 }
+      ],
+      "color": "#89b4fa",
+      "strokeWidth": 0,
+      "showPoints": true,
+      "pointSize": 5,
+      "lifetimeStart": 0
+    },
+    {
+      "id": "cluster-b",
+      "type": "points",
+      "label": "Cluster B",
+      "data": [
+        { "x": 7, "y": 5 },
+        { "x": 8, "y": 6 },
+        { "x": 7.5, "y": 5.5 },
+        { "x": 8.5, "y": 6.5 },
+        { "x": 7.8, "y": 5.8 }
+      ],
+      "color": "#a6e3a1",
+      "strokeWidth": 0,
+      "showPoints": true,
+      "pointSize": 5,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 10],
+  "yRange": [0, 8],
+  "xAxisLabel": "X Axis",
+  "yAxisLabel": "Y Axis"
+}

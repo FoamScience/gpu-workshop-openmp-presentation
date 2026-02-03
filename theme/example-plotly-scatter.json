@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5],
+      "y": [2, 4, 3, 5, 4],
+      "type": "scatter",
+      "mode": "markers",
+      "name": "Data Points",
+      "marker": {
+        "size": 12
+      }
+    }
+  ],
+  "layout": {
+    "title": "Example Scatter Plot",
+    "xaxis": {
+      "title": "X Axis"
+    },
+    "yaxis": {
+      "title": "Y Axis"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "labels": [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+  "components": [
+    {
+      "id": "data-distribution",
+      "type": "histogram",
+      "label": "Data Distribution",
+      "data": {
+        "bins": [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+        "frequencies": [5, 12, 23, 34, 28, 19, 14, 8, 5, 2]
+      },
+      "color": "#cba6f7",
+      "strokeWidth": 0.5,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 100],
+  "yRange": [0, 40],
+  "xAxisLabel": "Value Range",
+  "yAxisLabel": "Frequency"
+}

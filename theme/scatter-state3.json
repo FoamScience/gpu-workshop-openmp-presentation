@@ -1,0 +1,32 @@
+{
+  "labels": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "components": [
+    {
+      "id": "cluster-merged",
+      "type": "points",
+      "label": "Merged Cluster",
+      "data": [
+        { "x": 4.5, "y": 4.5 },
+        { "x": 5, "y": 5 },
+        { "x": 5.5, "y": 5.5 },
+        { "x": 5.2, "y": 4.8 },
+        { "x": 4.8, "y": 5.2 },
+        { "x": 5.3, "y": 5.3 },
+        { "x": 4.7, "y": 4.7 },
+        { "x": 5.1, "y": 4.9 },
+        { "x": 4.9, "y": 5.1 },
+        { "x": 5.4, "y": 5.4 }
+      ],
+      "color": "#cba6f7",
+      "strokeWidth": 0,
+      "showPoints": true,
+      "pointSize": 5,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 2,
+  "xRange": [0, 10],
+  "yRange": [0, 8],
+  "xAxisLabel": "X Axis",
+  "yAxisLabel": "Y Axis"
+}

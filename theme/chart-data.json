@@ -1,0 +1,13 @@
+{
+  "labels": ["January", "February", "March", "April", "May", "June"],
+  "datasets": [
+    {
+      "label": "Revenue",
+      "data": [12000, 19000, 15000, 25000, 22000, 30000]
+    },
+    {
+      "label": "Expenses",
+      "data": [8000, 11000, 9000, 15000, 14000, 18000]
+    }
+  ]
+}

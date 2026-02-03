@@ -1,0 +1,66 @@
+{
+  "labels": [1, 2, 3, 4, 5],
+  "components": [
+    {
+      "id": "dataset-stats",
+      "type": "boxplot",
+      "label": "Dataset Statistics",
+      "data": [
+        {
+          "x": 1,
+          "min": 12,
+          "q1": 18,
+          "median": 24,
+          "q3": 30,
+          "max": 38,
+          "outliers": [8, 42, 45]
+        },
+        {
+          "x": 2,
+          "min": 15,
+          "q1": 22,
+          "median": 28,
+          "q3": 35,
+          "max": 42,
+          "outliers": [10, 48]
+        },
+        {
+          "x": 3,
+          "min": 18,
+          "q1": 25,
+          "median": 32,
+          "q3": 38,
+          "max": 45,
+          "outliers": [12]
+        },
+        {
+          "x": 4,
+          "min": 14,
+          "q1": 20,
+          "median": 26,
+          "q3": 33,
+          "max": 40,
+          "outliers": [9, 46, 49]
+        },
+        {
+          "x": 5,
+          "min": 16,
+          "q1": 23,
+          "median": 30,
+          "q3": 36,
+          "max": 43,
+          "outliers": []
+        }
+      ],
+      "color": "#89b4fa",
+      "strokeWidth": 1.5,
+      "showOutliers": true,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 6],
+  "yRange": [0, 55],
+  "xAxisLabel": "Group",
+  "yAxisLabel": "Value"
+}

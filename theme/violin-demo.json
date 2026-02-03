@@ -1,0 +1,84 @@
+{
+  "labels": [1, 2, 3, 4],
+  "components": [
+    {
+      "id": "distribution-comparison",
+      "type": "violin",
+      "label": "Score Distributions",
+      "data": [
+        {
+          "x": 1,
+          "min": 10,
+          "max": 50,
+          "density": [
+            {"value": 10, "density": 0.1},
+            {"value": 15, "density": 0.3},
+            {"value": 20, "density": 0.8},
+            {"value": 25, "density": 1.0},
+            {"value": 30, "density": 0.9},
+            {"value": 35, "density": 0.5},
+            {"value": 40, "density": 0.3},
+            {"value": 45, "density": 0.1},
+            {"value": 50, "density": 0.05}
+          ]
+        },
+        {
+          "x": 2,
+          "min": 15,
+          "max": 55,
+          "density": [
+            {"value": 15, "density": 0.05},
+            {"value": 20, "density": 0.2},
+            {"value": 25, "density": 0.5},
+            {"value": 30, "density": 0.9},
+            {"value": 35, "density": 1.0},
+            {"value": 40, "density": 0.8},
+            {"value": 45, "density": 0.4},
+            {"value": 50, "density": 0.2},
+            {"value": 55, "density": 0.05}
+          ]
+        },
+        {
+          "x": 3,
+          "min": 20,
+          "max": 60,
+          "density": [
+            {"value": 20, "density": 0.05},
+            {"value": 25, "density": 0.15},
+            {"value": 30, "density": 0.35},
+            {"value": 35, "density": 0.7},
+            {"value": 40, "density": 1.0},
+            {"value": 45, "density": 0.9},
+            {"value": 50, "density": 0.6},
+            {"value": 55, "density": 0.3},
+            {"value": 60, "density": 0.1}
+          ]
+        },
+        {
+          "x": 4,
+          "min": 25,
+          "max": 65,
+          "density": [
+            {"value": 25, "density": 0.05},
+            {"value": 30, "density": 0.2},
+            {"value": 35, "density": 0.4},
+            {"value": 40, "density": 0.7},
+            {"value": 45, "density": 0.95},
+            {"value": 50, "density": 1.0},
+            {"value": 55, "density": 0.8},
+            {"value": 60, "density": 0.4},
+            {"value": 65, "density": 0.1}
+          ]
+        }
+      ],
+      "color": "#cba6f7",
+      "strokeWidth": 1.5,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 5],
+  "yRange": [0, 70],
+  "xAxisLabel": "Group",
+  "yAxisLabel": "Score"
+}

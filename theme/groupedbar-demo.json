@@ -1,0 +1,48 @@
+{
+  "labels": [1, 2, 3, 4, 5],
+  "components": [
+    {
+      "id": "quarterly-comparison",
+      "type": "groupedbar",
+      "label": "Quarterly Sales Comparison",
+      "data": {
+        "groups": [
+          {
+            "x": 1,
+            "values": [23, 28, 19],
+            "labels": ["Q1", "Q2", "Q3"]
+          },
+          {
+            "x": 2,
+            "values": [31, 35, 27],
+            "labels": ["Q1", "Q2", "Q3"]
+          },
+          {
+            "x": 3,
+            "values": [28, 32, 35],
+            "labels": ["Q1", "Q2", "Q3"]
+          },
+          {
+            "x": 4,
+            "values": [35, 38, 42],
+            "labels": ["Q1", "Q2", "Q3"]
+          },
+          {
+            "x": 5,
+            "values": [40, 45, 48],
+            "labels": ["Q1", "Q2", "Q3"]
+          }
+        ]
+      },
+      "color": "#89b4fa",
+      "colors": ["#89b4fa", "#a6e3a1", "#f9e2af"],
+      "strokeWidth": 0.5,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [0, 6],
+  "yRange": [0, 55],
+  "xAxisLabel": "Product",
+  "yAxisLabel": "Sales ($1000s)"
+}

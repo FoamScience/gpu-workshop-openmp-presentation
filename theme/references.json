@@ -1,0 +1,69 @@
+[
+    {
+        "doi": "10.1002/andp.19053221004",
+        "pages": "891--921",
+        "volume": "17",
+        "year": "1905",
+        "journal": "Annalen der Physik",
+        "title": "On the Electrodynamics of Moving Bodies",
+        "author": "Einstein, Albert",
+        "ENTRYTYPE": "article",
+        "ID": "einstein1905"
+    },
+    {
+        "doi": "10.1093/mind/LIX.236.433",
+        "pages": "433--460",
+        "number": "236",
+        "volume": "59",
+        "year": "1950",
+        "journal": "Mind",
+        "title": "Computing Machinery and Intelligence",
+        "author": "Turing, Alan M.",
+        "ENTRYTYPE": "article",
+        "ID": "turing1950"
+    },
+    {
+        "pages": "97--111",
+        "number": "2",
+        "volume": "27",
+        "year": "1984",
+        "booktitle": "The Computer Journal",
+        "title": "Literate Programming",
+        "author": "Knuth, Donald E.",
+        "ENTRYTYPE": "inproceedings",
+        "ID": "knuth1984"
+    },
+    {
+        "isbn": "978-0132158718",
+        "year": "1976",
+        "publisher": "Prentice Hall",
+        "title": "A Discipline of Programming",
+        "author": "Dijkstra, Edsger W.",
+        "ENTRYTYPE": "book",
+        "ID": "dijkstra1976"
+    },
+    {
+        "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+        "pages": "379--423",
+        "number": "3",
+        "volume": "27",
+        "year": "1948",
+        "journal": "Bell System Technical Journal",
+        "title": "A Mathematical Theory of Communication",
+        "author": "Shannon, Claude E.",
+        "ENTRYTYPE": "article",
+        "ID": "shannon1948"
+    },
+    {
+        "doi": "10.1007/BF00994018",
+        "pages": "273--297",
+        "number": "3",
+        "volume": "20",
+        "year": "1995",
+        "journal": "Machine Learning",
+        "title": "Support-Vector Networks",
+        "author": "Vapnik, Vladimir N. and Cortes, Corinna",
+        "ENTRYTYPE": "article",
+        "ID": "vapnik1995"
+    }
+]

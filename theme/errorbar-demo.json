@@ -1,0 +1,58 @@
+{
+  "labels": [-50, -25, 0, 25, 50, 75, 100, 125, 150],
+  "components": [
+    {
+      "id": "measurement-line",
+      "type": "line",
+      "label": "Measured Values",
+      "data": [12, 15, 18, 22, 28, 32, 35, 38, 40],
+      "color": "#89b4fa",
+      "strokeWidth": 2,
+      "lifetimeStart": 0
+    },
+    {
+      "id": "measurement-points",
+      "type": "points",
+      "label": "Measurements",
+      "data": [
+        {"x": -50, "y": 12},
+        {"x": -25, "y": 15},
+        {"x": 0, "y": 18},
+        {"x": 25, "y": 22},
+        {"x": 50, "y": 28},
+        {"x": 75, "y": 32},
+        {"x": 100, "y": 35},
+        {"x": 125, "y": 38},
+        {"x": 150, "y": 40}
+      ],
+      "color": "#89b4fa",
+      "pointSize": 6,
+      "lifetimeStart": 0
+    },
+    {
+      "id": "measurement-errors",
+      "type": "errorbar",
+      "label": "±1σ Error",
+      "data": [
+        {"x": -50, "y": 12, "error": 2.5},
+        {"x": -25, "y": 15, "error": 2.8},
+        {"x": 0, "y": 18, "error": 3.0},
+        {"x": 25, "y": 22, "error": 2.2},
+        {"x": 50, "y": 28, "error": 3.5},
+        {"x": 75, "y": 32, "error": 2.9},
+        {"x": 100, "y": 35, "error": 3.2},
+        {"x": 125, "y": 38, "error": 2.7},
+        {"x": 150, "y": 40, "error": 3.1}
+      ],
+      "color": "#6c7086",
+      "strokeWidth": 1.5,
+      "capWidth": 10,
+      "lifetimeStart": 0
+    }
+  ],
+  "currentState": 0,
+  "xRange": [-50, 150],
+  "yRange": [0, 50],
+  "xAxisLabel": "Independent Variable",
+  "yAxisLabel": "Dependent Variable"
+}
